@@ -13,3 +13,6 @@ Make a pull request
 ## cloning a repository
 
 in cli or in vs code : git clone (https or ssh of the repo)
+
+
+changes--------------------
