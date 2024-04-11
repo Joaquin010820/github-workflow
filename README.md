@@ -14,4 +14,7 @@ Make a pull request
 
 in cli or in vs code : git clone (https or ssh of the repo)
 
-updated
+### adding a repo from local computer to github repo
+
+git remote add origin (link of ssh or https from newly created repo in github)>
+git push -u origin main
